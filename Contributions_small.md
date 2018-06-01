@@ -15,4 +15,4 @@ Chci vytvořit prográmek který vezme text soubor (od txt po svg) a nahradí ka
 5. Asi radši více používat branch
 # **Ale hlavně**
 **Pokud máte nápad na něco jiného, klidně do toho půjdu,** tenhle nápad mám jenom proto, že by se mi to hodio několikrát do atletiky.
-Proto se mi i podařilo přijít s docela jasným konceptem.
+Proto se mi i podařilo přijít s docela jasným konceptem. :-D
