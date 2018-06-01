@@ -11,7 +11,8 @@ Chci vytvořit prográmek který vezme text soubor (od txt po svg) a nahradí ka
 1. někde jsem viděl import .csv což by asi nebylo od věci
 2. Promýšlím jestli vytvořit jeden soubor/ nebo více a vzájemně importovat (je to na dohodě, mě se víc líbí import, kvůli přehlednosti)
 3. asi bych chtěl použít OOP ale musel bych si ho připomenout/donaučit
-4. Pokud máte nějaký další klidně
+4. Pokud máte nějaký další, klidně
+5. Asi radši více používat branch
 # **Ale hlavně**
 **Pokud máte nápad na něco jiného, klidně do toho půjdu,** tenhle nápad mám jenom proto, že by se mi to hodio několikrát do atletiky.
 Proto se mi i podařilo přijít s docela jasným konceptem.
